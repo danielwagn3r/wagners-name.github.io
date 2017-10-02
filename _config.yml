@@ -24,6 +24,17 @@ twitter_username: daniel_wagn3r
 github_username:  kwaxi
 google_analytics: GTM-KQZCCL
 
+social:
+  name: Daniel Wagner
+  links:
+    - https://www.facebook.com/daniel.wagn3r
+    - https://twitter.com/daniel_wagn3r
+    - https://www.instagram.com/daniel.wagn3r/
+    - https://github.com/kwaxi/
+    - https://plus.google.com/+DanielWagner79
+    - https://www.linkedin.com/in/danielwagn3r
+    - https://www.xing.com/profile/Daniel_Wagner314
+    - https://keybase.io/danielwagner
 
 # Build settings
 markdown: kramdown
