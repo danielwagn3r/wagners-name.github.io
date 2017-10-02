@@ -5,6 +5,7 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
     ffi (1.9.18)
+    ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
     jekyll (3.6.0)
       addressable (~> 2.4)
@@ -24,6 +25,8 @@ GEM
       posix-spawn (~> 0.3.9)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-seo-tag (2.3.0)
+      jekyll (~> 3.3)
     jekyll-sitemap (1.1.1)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
@@ -50,17 +53,26 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    thread_safe (0.3.6)
+    tzinfo (1.2.3)
+      thread_safe (~> 0.1)
+    tzinfo-data (1.2017.2)
+      tzinfo (>= 1.0.0)
+    wdm (0.1.1)
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   jekyll (~> 3.6.0)
   jekyll-feed (~> 0.6)
   jekyll-last-modified-at (~> 1.0.1)
+  jekyll-seo-tag (~> 2.3.0)
   jekyll-sitemap (~> 1.1.1)
   minima (~> 2.0)
   tzinfo-data
+  wdm (~> 0.1.1)
 
 BUNDLED WITH
    1.16.0.pre.2

@@ -42,6 +42,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-seo-tag  
   - jekyll-sitemap
 
 # Exclude from processing.
