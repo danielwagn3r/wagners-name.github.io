@@ -5,6 +5,8 @@
 
   <body>
 
+    {% include google-firebase.html %}
+
     {% if jekyll.environment == 'production' and site.google_analytics %}
       {% include google-analytics-body.html %}
     {% endif %}    
