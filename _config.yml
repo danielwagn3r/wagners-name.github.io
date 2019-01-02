@@ -13,28 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dani3l's Tech Couch
+title: Daniel Wagner on Web
 author: Daniel Wagner
 email: daniel@wagners.name
 description: >- # this means to ignore newlines until "baseurl:"
   Daniel's blog on technology, coding and other nerd stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.wagners.name" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_username: daniel.wagn3r
+flickr_username: danielwagn3r
+github_username:  danielwagn3r
+instagram_username: daniel.wagn3r
+linkedin_username: danielwagn3r
 twitter_username: daniel_wagn3r
-github_username:  kwaxi
-google_analytics: GTM-KQZCCL
 
-social:
-  name: Daniel Wagner
-  links:
-    - https://www.facebook.com/daniel.wagn3r
-    - https://twitter.com/daniel_wagn3r
-    - https://www.instagram.com/daniel.wagn3r/
-    - https://github.com/kwaxi/
-    - https://plus.google.com/+DanielWagner79
-    - https://www.linkedin.com/in/danielwagn3r
-    - https://www.xing.com/profile/Daniel_Wagner314
-    - https://keybase.io/danielwagner
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Build settings
 markdown: kramdown
@@ -44,6 +45,16 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-seo-tag  
   - jekyll-sitemap
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
