@@ -22,7 +22,7 @@ Eine mögliche Panik im Momentum der ersten Entscheidungen ist nun vorüber, die
 
 Die Umsetzung der Hilfspakete wirkt insgesamt auch schlecht vorbereitet. Hier ist mein Anspruch und meine klare Erwartung an Grüne in einer österreichischen Bundesregierung eine andere und sehe meinen Anspruch daher leider immer weniger erfüllt. Bei der Planung von Maßnahmen, sollten sie diese stets einem "Oppositions-Check" unterziehen, etwas worin sie langjährige Erfahrung aus ihrer bewährten Oppositionsrolle haben.
 
-Wenn ich nun Sachverhalte lesen muss, dass z.B. die Gestaltung der Medienunterstützung erst wieder hauptsächlich dem Boulevard und Parteiblättern (siehe [Armin Wolf][arminwolf-pressefoerderung] zu gute kommt tue ich mir schwer zu glauben, dass wir Grüne in der Regierung haben. Wenn ich lese dass für die operative Umsetzung der Hilfsfonds die WKO oder eine überhastet gegründete Agentur herhalten soll – da ahne ich leider böses. Wie gesagt, der Grüne Faden in den Maßnahmen geht verloren …
+Wenn ich nun Sachverhalte lesen muss, dass z.B. die Gestaltung der Medienunterstützung erst wieder hauptsächlich dem Boulevard und Parteiblättern (siehe [Armin Wolf][arminwolf-pressefoerderung]) zu gute kommt tue ich mir schwer zu glauben, dass wir Grüne in der Regierung haben. Wenn ich lese dass für die operative Umsetzung der Hilfsfonds die WKO oder eine überhastet gegründete Agentur herhalten soll – da ahne ich leider böses. Wie gesagt, der Grüne Faden in den Maßnahmen geht verloren …
 
 Es gäbe übrigens noch vieles mehr zu sagen.
 
