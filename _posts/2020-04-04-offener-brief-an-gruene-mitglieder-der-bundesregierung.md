@@ -30,6 +30,10 @@ Freundliche Grüße
 <br />
 Daniel Wagner
 
+<p align="center">
+<img src="/images/avatars/40889529_691325224567292_1094238155260821504_o.jpg" alt="Daniel Wagner" title="Photo of Daniel" width="128" height="128" />
+</p>
+
 [derstandard-sobotka]: https://www.derstandard.at/story/2000116520911/nationalratspraesidentsobotka-stopp-corona-app-soll-verpflichtend-sein
 [derstandard-palantir]: https://www.derstandard.at/story/2000116422285/sozialministerium-prueft-dienste-von-us-firma-palantir
 [arminwolf-pressefoerderung]: https://twitter.com/ArminWolf/status/1246218950779830275?s=20
