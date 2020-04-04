@@ -18,7 +18,7 @@ Sehr wohl aber gebührt den Bürgern der Europäischen Union insgesamt und natü
 - generell sollten die o.a. Informationen von den Experten selbst öffentlich dargelegt werden, diese sind fast gar nicht oder zu wenig sichtbar
 - Entscheidungen müssen insgesamt transparenter und nachvollziehbarer dargestellt werden
 
-Eine mögliche Panik im Momentum der ersten Entscheidungen ist nun vorüber, die Krisenkommunikation ist somit wieder einzustellen und der einer in einer Demokratie wichtige offene Umgang mit Information wieder herzustellen. Als Mitarbeiter eines Unternehemns der sogenannten nationalen kritischen Infrastruktur sehe ich mich als prinzipiell im Umgang mit Notfalls- und Krisensituationen vertraut und traue mir daher eine Aussage diesbezüglich durchaus zu.
+Eine mögliche Panik im Momentum der ersten Entscheidungen ist nun vorüber, die Krisenkommunikation ist somit wieder einzustellen und der einer in einer Demokratie wichtige offene Umgang mit Information wieder herzustellen. Als Mitarbeiter eines Unternehmens der sogenannten nationalen kritischen Infrastruktur sehe ich mich als prinzipiell im Umgang mit Notfalls- und Krisensituationen vertraut und traue mir daher eine Aussage diesbezüglich durchaus zu.
 
 Die Umsetzung der Hilfspakete wirkt insgesamt auch schlecht vorbereitet. Hier ist mein Anspruch und meine klare Erwartung an Grüne in einer österreichischen Bundesregierung eine andere und sehe meinen Anspruch daher leider immer weniger erfüllt. Bei der Planung von Maßnahmen, sollten sie diese stets einem "Oppositions-Check" unterziehen, etwas worin sie langjährige Erfahrung aus ihrer bewährten Oppositionsrolle haben.
 
