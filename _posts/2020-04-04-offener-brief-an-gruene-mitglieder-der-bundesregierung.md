@@ -27,6 +27,7 @@ Wenn ich nun Sachverhalte lesen muss, dass z.B. die Gestaltung der Medienunterst
 Es gäbe übrigens noch vieles mehr zu sagen.
 
 Freundliche Grüße
+<br />
 Daniel Wagner
 
 [derstandard-sobotka]: https://www.derstandard.at/story/2000116520911/nationalratspraesidentsobotka-stopp-corona-app-soll-verpflichtend-sein
