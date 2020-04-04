@@ -6,7 +6,7 @@ categories: poltics corona covid privacy civilrights freedom
 ---
 Liebe grüne Mitglieder der Bundesregierung,
 
-bisher habe ich die ihre Maßnahmen ihm Rahmen der Covid-19 Krise einigermaßen gut nachvollziehen und für mich persönlich auch mittragen können. Allerdings muss ich leider feststellen, dass ich den Grünen Faden bei den jüngeren Maßnahmen immer weniger sehe und mir die neueren Maßnahmen daher gelinde gesagt auch einfach schlecht bzw. zumindest schlecht umgesetzt erscheinen.
+bisher habe ich ihre Maßnahmen im Rahmen der Covid-19 Krise einigermaßen gut nachvollziehen und für mich persönlich auch mittragen können. Allerdings muss ich leider feststellen, dass ich den Grünen Faden bei den jüngeren Maßnahmen immer weniger sehe und mir die neueren Maßnahmen daher gelinde gesagt auch einfach schlecht bzw. zumindest schlecht umgesetzt erscheinen.
 
 Eine verpflichtende Überwachung als Kuhhandel gegen andere Freiheiten ist einfach abzulehnen. Als IT Experte weiß ich um die Möglichkeiten solcher technischer Mittel sehr gut Bescheid, und kann solche Mittel schlichtweg nur ablehnen und dringend dazu raten sich entsprechenden Wünschen (siehe [Nationalratspräsident Sobotka: "Stopp Corona"-App kann mit Verpflichtung noch mehr helfen][derstandard-sobotka]) vom Koalitionspartner mit aller Kraft entgegen zu stemmen. Initiativen z.B. des Roten Kreuzes sind als Aktionismus einzusortieren und sortieren und auch hier ist gut gemeint von gut gemacht streng zu unterscheiden. Ob sie für die Überwachung nun die App des Roten Kreuzes oder meines Erachtens zweifelhafte Firmen wie [Palantir][derstandard-palantir] heranziehen ist dann schon fast egal.
 
