@@ -2,7 +2,8 @@
 layout: post
 title:  "CodeWeek ParkTour 2017"
 date:   2017-10-09 22:13:00 +0200
-categories: coderdojo codeweek volunteer
+category: coderdojo
+tags: coderdojo codeweek volunteer
 ---
 <p align="center">
 <a href="http://codeweek.eu"><img src="/images/codeweekeu.png" alt="Europe CodeWeek Banner" title="Europe CodeWeek Banner" height="140px"></a>

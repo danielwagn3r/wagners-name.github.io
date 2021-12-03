@@ -2,7 +2,8 @@
 layout: post
 title:  "Offener Brief an die grünen Mitglieder der Bundesregierung"
 date:   2020-04-04 15:00:00 +0200
-categories: poltics corona covid privacy civilrights freedom
+category: politics
+tags: politics corona covid privacy civilrights freedom
 ---
 Liebe grüne Mitglieder der Bundesregierung,
 
