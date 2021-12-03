@@ -23,6 +23,8 @@ url: "https://www.wagners.name" # the base hostname & protocol for your site, e.
 github_username:  danielwagn3r
 linkedin_username: danielwagn3r
 twitter_username: daniel_wagn3r
+rss: rss
+
 
 # Mastodon instances
 # mastodon:
@@ -32,7 +34,7 @@ twitter_username: daniel_wagn3r
 #   instance: example.com
 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
 markdown: kramdown
