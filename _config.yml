@@ -27,9 +27,9 @@ rss: rss
 
 
 # Mastodon instances
-# mastodon:
-# - username: jekyll
-#   instance: example.com
+mastodon:
+- username: danielwagn3r
+  instance: fedi.at
 # - username: jekyll2
 #   instance: example.com
 
