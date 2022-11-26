@@ -23,6 +23,8 @@ On the portal this then looks like this:
 
 ![Virtual machine properties](/images/20221126/archlinux02.webp)
 
+The images is provided as is without any guarantee or liability.
+
 ## Upcoming work
 
 Currently the image only support generation 1 VMs on Azure. Support for generation 2 VMs [^3] would be nice, but requires some work with Secure Boot. Azure enables trusted launch [^4] per default with generation two VMs.
