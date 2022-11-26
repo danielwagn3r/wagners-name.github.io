@@ -11,7 +11,7 @@ After years of using my favorite Linux distribution on my on-premise systems, li
 
 I'm now happy to announce the availabilty of an community Arch Linux image on Azure, as I got the possibility to be party of the preview of the community galleries preview [^2].
 
-You can find the image using the *Community Images (PREVIEW)* option on Azure Portal:
+You can find the image using the *Community Images (PREVIEW)* option on Azure Portal, with name `arch-linux` and publisher ´danielwagn3r` as shown here:
 
 [![Community Images](/images/20221126/archlinux03.webp)](https://portal.azure.com/#create/Microsoft.VirtualMachine)
 
